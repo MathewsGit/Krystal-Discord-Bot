@@ -1,0 +1,5 @@
+const {MessageEmbed} = require('discord.js')
+module.exports = new MessageEmbed()
+.setTitle("**Hi! I'm Krystal <a:Blue_crystal:1004762144287502386>**")
+.setDescription("```Prefix: [!]```\n[<a:create:1004710167830605874> 𝐀𝐝𝐝 𝐊𝐫𝐲𝐬𝐭𝐚𝐥 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐒𝐞𝐫𝐯𝐞𝐫!](https://discord.com/api/oauth2/authorize?client_id=928915990836805652&permissions=1524660436215&scope=bot+applications.commands)")
+.setColor('#ff99ff')
